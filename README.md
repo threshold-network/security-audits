@@ -5,7 +5,7 @@
 https://leastauthority.com/blog/audits/audit-of-keep-network-tbtc-bridge-v2/
 
 ## CertiK: Vending Machine Security Audit Report
-19 November 2021 \
+19 November 2021 [[PDF]](./19-Nov-2021-CertiK.pdf) \
 https://www.certik.com/projects/threshold-network
 
 ## ChainSecurity: Staking Contract, T Token, Vending Machine Security Audit Report
